@@ -1,4 +1,4 @@
-[!NOTE]
+> [!NOTE]
 
 https://github.com/danielcba/mini_dashboard
 to ---> diagrama
