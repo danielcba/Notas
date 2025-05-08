@@ -11,11 +11,16 @@
 
 
 
+
 > [!TIP]
 >
-> https://github.com/danielcba/mini_dashboard
-> to ---> diagrama
-> https://gitdiagram.com/danielcba/mini_dashboard
+> https://github.com/danielcba/geolocation_to_csv_kml
+> to ---> wiki
+> https://deepwiki.com/danielcba/geolocation_to_csv_kml
+>
+> previamente debe estar indexado el repositorio
+
+
 
 > [!IMPORTANT]
 > 
