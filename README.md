@@ -13,9 +13,7 @@
 
 
 > [!TIP]
-> 
-> 
->  algun texto
+> algun texto
 
 
 
