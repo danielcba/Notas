@@ -13,7 +13,11 @@
 
 
 > [!TIP]
-> algun texto
+> 
+> https://github.com/danielcba/mini_dashboard
+> to ---> readme mejorado
+> https://deepwiki.com/danielcba/mini_dashboard
+> el repositorio debe estar indexado
 
 
 
