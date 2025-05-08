@@ -5,9 +5,13 @@ to ---> diagrama
 https://gitdiagram.com/danielcba/mini_dashboard
 
 > [!TIP]
->
+
+
 > [!IMPORTANT]
-> 
-> [!CAUTIO]
->
+
+
+> [!CAUTION]
+
+
+
 > [!WARNING]
